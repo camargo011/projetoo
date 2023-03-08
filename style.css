@@ -1,0 +1,35 @@
+body {
+    background-color: hsla(112, 42%, 75%, 0.397);
+}
+
+img {
+    height: 550px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+div {
+align-content: center;
+text-align-last: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgb(105, 156, 112);
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: rgb(6, 17, 2);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
